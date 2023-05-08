@@ -100,7 +100,6 @@
 [unused99]
 [UNK]
 [SEP]
-[PAD]
 [CLS]
 [MASK]
 !
